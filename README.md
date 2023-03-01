@@ -1,7 +1,7 @@
-![dadjoke app in Mac dock](https://i.imgur.com/bX6walm.png)
 
-# dadjoke.app
-Mac app that fetches a dad joke and reads it out loud
+
+# mute-and-dim.app
+Mac app that mutes and dims monitor(s)
 
 ## Download
-[Go to the release page](https://github.com/kennethlarsen/dadjoke.app/releases)
+[Go to the release page](https://github.com/asherbanipal/mute-and-dim.app.git)
